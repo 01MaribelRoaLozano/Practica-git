@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    font-family: "Muli",sans-serif;
+    background-image: linear-gradient(-225deg,#473B7B 0%,#3584A7 51%, #30D2BE 100%);
+}
+
+h1{
+    margin: 0px;
+}
+.error-messager{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 100px);
+    width: 100%;
+
+}
+.error-messager_container{
+    text-align: center;
+    color: rgb(39, 20, 210);
+   
+
+   
+}
